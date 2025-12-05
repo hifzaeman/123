@@ -1,0 +1,6 @@
+Player: Ibrahim
+Location: treasure_room
+Health: 100
+Coins: 60
+Inventory: map,sword,golden_key
+Puzzles Solved: cave,castle
